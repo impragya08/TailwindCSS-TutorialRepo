@@ -2,6 +2,11 @@
 
 Welcome to my Tailwind CSS learning journey documented in this repository. Here, you'll find my progression from a beginner to a confident user of the utility-first CSS framework, Tailwind CSS.
 
+![t](https://github.com/impragya08/TailwindCSS-TutorialRepo/assets/84717393/7aa8eb45-44e2-4e1e-8796-322163a3ddde)
+
+![d](https://github.com/impragya08/TailwindCSS-TutorialRepo/assets/84717393/a52aad7a-f8dc-4c87-aee8-8bd6fd1333cc)
+
+
 
 ## Introduction
 
